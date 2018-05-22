@@ -3,8 +3,13 @@
   "name": "twui",
   "description": "Responsive web interface to Taskwarrior",
   "license": "MIT",
-  "keywords": ["responsive", "web", "ui", "Taskwarrior"],
-  "version": "0.1.0",
+  "keywords": [
+    "responsive",
+    "web",
+    "ui",
+    "Taskwarrior"
+  ],
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "http://github.com/rampantmonkey/twui.git"
