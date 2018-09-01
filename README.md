@@ -1,3 +1,7 @@
+# BETA
+This is still in the early stage of becoming a full app for the kaios platform and will always involve personal configuration and loading your kaios device with a jailbreak, for instance omniSD made by Luxferre
+
+
 # twui
 
 Taskwarrior UI - a responsive web interface to [taskwarrior](http://taskwarrior.org/) written with [Node.js](http://nodejs.org/).
